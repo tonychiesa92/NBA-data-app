@@ -8,3 +8,10 @@ The purpose of this application is to take an existing Python project I complete
 - React-bootstrap
 - statsmodels-js: A JavaScript implementation of statistics methods
 - chartjs/ react-chartjs-2
+
+
+## Screenshots of csv files (* First 10 entries)
+
+![image](https://user-images.githubusercontent.com/50529575/229547180-c604f02c-4752-49af-8e61-700536e2ff84.png)
+
+![image](https://user-images.githubusercontent.com/50529575/229547271-84c5b69a-27be-443c-928f-38fdf546fb07.png)
